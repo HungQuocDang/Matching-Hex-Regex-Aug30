@@ -50,7 +50,7 @@ Bracket Expressions uses [  ], elements inside the  [  ]  specify how the target
 
 ### The OR Operator
 
-Here the Boolean OR logic uses |.  So, this snippet the | is to filter out either 4 or 2 consecutive characters of validated Hexadecimal string.
+Here the Boolean OR logic uses | in the snippet.  So, this snippet the | is to filter out either 4 or 2 consecutive characters of validated Hexadecimal string.
 
 ### Flags
 
