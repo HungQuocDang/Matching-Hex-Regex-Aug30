@@ -14,7 +14,7 @@ A valid Hexadecimal digit must be one of these: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A,
 
 This Regex, ^([a-fA-F0-9]{4}|[a-fA-F0-9]{2})$, can be useful for digital hardware design where a user enters a set of characters that need to be a valid Hexadecimal of 2 or 4 digits then to use an Hexadecimal to binary converter to get binary values that need to be put into an eight or sixteen bits register.  One Hexadecimal digit has 4 binary bits,  to affect eight-bits or sixteen-bits register will need 2 or 4 Hexadecimal digits.
 
-DEMO on how to use it: 
+DEMO on how to use it: https://drive.google.com/file/d/1Jyt5B4sVU3F90Vg2PLQcFxxTufhn3CtV/view
 
 
 
@@ -24,7 +24,6 @@ DEMO on how to use it:
 - [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
 - [The OR Operator](#the-or-operator)
 
 
@@ -66,8 +65,6 @@ Deployed link :  https://hungquocdang.github.io/Matching-Hex-Regex-Aug30/
 
 GitHub Repository: https://github.com/HungQuocDang/Matching-Hex-Regex-Aug30
 
-For cloning is : git@github.com:HungQuocDang/Matching-Hex-Regex-Aug30.git
-
-DEMO on how to use it:
+DEMO on how to use it:  https://drive.google.com/file/d/1Jyt5B4sVU3F90Vg2PLQcFxxTufhn3CtV/view
 
 ![Alt text](Regex-Hex-Matching.PNG)
