@@ -1,4 +1,4 @@
-# Matching and Hexadecimal Regex by Hung Quoc Dang
+# Matching an Hexadecimal Regex by Hung Quoc Dang
 
 Introductory paragraph (replace this with your text)
 
