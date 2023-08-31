@@ -67,4 +67,6 @@ GitHub Profile: https://github.com/HungQuocDang
 
 DEMO on how to use it:  https://drive.google.com/file/d/1Jyt5B4sVU3F90Vg2PLQcFxxTufhn3CtV/view
 
+GitHub Gist: https://gist.github.com/HungQuocDang/45a182cac3bf92b2b4501193c52aacda 
+
 ![Alt text](Regex-Hex-Matching.PNG)
