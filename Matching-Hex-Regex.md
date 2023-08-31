@@ -63,7 +63,7 @@ This Regex, ^([a-fA-F0-9]{4}|[a-fA-F0-9]{2})$, can be useful for digital hardwar
 
 Deployed link :  https://hungquocdang.github.io/Matching-Hex-Regex-Aug30/
 
-GitHub Repository: https://github.com/HungQuocDang/Matching-Hex-Regex-Aug30
+GitHub Profile: https://github.com/HungQuocDang 
 
 DEMO on how to use it:  https://drive.google.com/file/d/1Jyt5B4sVU3F90Vg2PLQcFxxTufhn3CtV/view
 
